@@ -1,0 +1,4 @@
+/node_modules
+/lingualog-frontend/build
+/lingualog-backend/node_modules
+.env
